@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "[ECHO] Running Job"
+echo "[INFO] Running Job"
+echo "[INFO] file updated for POLL SCM demo after configuring jenkins with CHMOD"
